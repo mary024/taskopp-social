@@ -1,0 +1,17 @@
+Founder quote flyer captions
+
+Variant A — "neighbors first" (Sun Nov 15, 2026, 2:00 PM CT)
+  Image: neighbors_first_keep_100_1080x1350.png (also _2160x2700)
+  IG / Facebook / LinkedIn: caption.txt
+  X: caption_x.txt
+  Threads: caption_threads.txt
+  TikTok caption: caption_tiktok.txt
+  TikTok title: tiktok_title.txt
+
+Variant B — "I built TaskOpp" (Wed Nov 18, 2026, 3:00 PM CT)
+  Image: built_taskopp_simple_things_1080x1350.png (also _2160x2700)
+  IG / Facebook / LinkedIn: caption_built.txt
+  X: caption_x_built.txt
+  Threads: caption_threads_built.txt
+  TikTok caption: caption_tiktok_built.txt
+  TikTok title: tiktok_title_built.txt
